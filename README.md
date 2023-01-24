@@ -1,4 +1,4 @@
-# IG workshop
+# jar related linux cmd
 
 ## to check package name within a Jar file
 ```sh
